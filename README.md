@@ -1,4 +1,4 @@
-![LinkedIn Poster](https://user-images.githubusercontent.com/88645248/209170830-9ecbc0a1-1a6a-445e-9ecb-8d2099ebf95e.png)
+![poster](https://github.com/s-m-quadri/s-m-quadri/assets/88645248/bbda2a48-5687-4af3-9e25-1d0415c01d14)
 
 ### Greetings 👋 السلام عليكم 
 
