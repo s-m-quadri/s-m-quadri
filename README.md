@@ -2,7 +2,7 @@
 
 ### Greetings 👋 السلام عليكم 
 
-I'm currently pursuing a Master's in Computer Science and Engineering from the Government College of Engineering, Aurangabad. I'm an expert in **full stack web development**, **software development**, and **graphic design**, and I'm comfortable with cybersecurity and AI/ML.
+I'm currently pursuing a Master's in Computer Science and Engineering from the Government College of Engineering, Aurangabad. I'm an expert in **full stack web development**, **software development**, and **graphic design**, and I'm comfortable with cybersecurity and AI/ML. [Learn more...](https://s-m-quadri.gitlab.io/about/)
 
 ### Reach 🌐 us via:
 
