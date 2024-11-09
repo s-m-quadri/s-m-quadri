@@ -2,13 +2,14 @@
 
 ### Greetings 👋 السلام عليكم 
 
-I am Syed Minnatullah Quadri, an undergraduate student from Deogiri Institute of Engineering and Management Studies, Aurangabad, Maharashtra, India, doing my Computer Science and Engineering course from the mentioned institute.
+I'm currently pursuing a Master's in Computer Science and Engineering from the Government College of Engineering, Aurangabad. I'm an expert in **full stack web development**, **software development**, and **graphic design**, and I'm comfortable with cybersecurity and AI/ML.
 
 ### Reach 🌐 us via:
 
-* Portfolio 🔗 https://sites.google.com/view/s-m-quadri ➡️ https://s-m-quadri.github.io (under migration)
+* Portfolio 🔗 https://s-m-quadri.github.io
 * LinkedIn 🔗 https://www.linkedin.com/in/s-m-quadri
 * GitHub 🔗 https://github.com/s-m-quadri
+* Old Portfolio 🔗 https://sites.google.com/view/s-m-quadri
 
 ### The following are pinned projects, ordered according to significance.
 
