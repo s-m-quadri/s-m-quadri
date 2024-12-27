@@ -14,3 +14,5 @@ I'm currently pursuing a Master's in Computer Science and Engineering from the G
 ### The following are pinned projects, ordered according to significance.
 
 I hope you will find them inspiring and helpful. 🙂 جزاك اللهُ خيراً
+
+![graph](https://github.com/s-m-quadri/s-m-quadri/blob/stable/profile-3d-contrib/profile-green-animate.svg)
