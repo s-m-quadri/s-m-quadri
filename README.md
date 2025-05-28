@@ -1,4 +1,4 @@
-![poster](https://github.com/s-m-quadri/s-m-quadri/assets/88645248/bbda2a48-5687-4af3-9e25-1d0415c01d14)
+![poster](https://github.com/user-attachments/assets/416b5394-a9a4-4dae-b030-dc53df52b1de)
 
 ### Greetings 👋 السلام عليكم 
 
@@ -6,10 +6,9 @@ I'm currently pursuing a Master's in Computer Science and Engineering from the G
 
 ### Reach 🌐 us via:
 
-* Portfolio 🔗 https://s-m-quadri.github.io
+* Portfolio 🔗 https://s-m-quadri.me
 * LinkedIn 🔗 https://www.linkedin.com/in/s-m-quadri
 * GitHub 🔗 https://github.com/s-m-quadri
-* Old Portfolio 🔗 https://sites.google.com/view/s-m-quadri
 
 ### The following are pinned projects, ordered according to significance.
 
